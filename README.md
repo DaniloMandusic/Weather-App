@@ -6,7 +6,7 @@ Shows time based on your current location and features day/night theme shift.
 <img src = "Untitled3.png" height = 600>
 
 ## How to install
-1.Clone this repository <br/>
+1.Clone repository <br/>
 
 2.Set up package to your project folder
 
